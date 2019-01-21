@@ -1,0 +1,25 @@
+nav a {
+  border: dotted 1px yellow;
+  padding: 15px;
+}
+
+nav a:hover {
+  padding: 5px;
+  background-color: yellowgreen
+} 
+
+body>header{
+  margin-top: :60px;
+}
+
+section article p{
+  padding: :2em 1em;
+  margin-bottom: :2em;
+  background-color: #e9ecef;
+  border-radius: 1em;
+}
+body>header>h1{
+  padding-top: 3.5rem;
+  color: brown;
+  background-color: blanchedalmond;
+}
