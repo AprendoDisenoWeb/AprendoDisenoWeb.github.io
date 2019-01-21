@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Formulario</title>
+    <link type="text/css" rel="stylesheet" href="../CSS/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet" href="..//CSS/miCss.css">
+    <link href="..//CSS/jumbotron.css" type="text/css" rel="stylesheet">
+  </head>
+  <body>
+    <header class="row">
+      <h1 class="col-md-10 col-sm-6 col-12">BIENVENIDO A NUESTRA WEB!</h1>
+      <picture class="col-md-2 col-sm-6 col-12"><img src="../imagenes/logotipo.jpg"
+
+          alt="logotipo de mi empresa"></picture> </header>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <div class="collapse navbar-collapse"> <a class="navbar-brand" href="ejerciciosTema2/nosotros.html">Nosotros</a>
+        <a class="navbar-brand" href="ejerciciosTema2/nuestrosServicio.html">Nuestros
+          Servicios</a> <a class="navbar-brand" href="../index.html">Atras</a>
+      </div>
+      <button class="navbar-toggler" type="button"><span class="navbar-toggler-icon"></span></button>
+      <form class="form-inline"> <input class="form-control" placeholder="Buscar..."
+
+          type="text"> <button class="btn btn-outline-success" type="submit">Buscar!</button>
+      </form>
+    </nav>
+    <section class="row">
+      <header class="col-md-12 col-sm-12 col-12">
+        <h1>TU OPINION CUENTA</h1>
+      </header>
+      <article class="col-md-4 col-sm-8 col-12">
+        <h1>Primer texto</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit neque nunc in
+          vitae, libero nisl id magna mattis eget ac purus duis varius.
+          Himenaeos urna dui aptent massa cursus auctor, taciti rutrum venenatis
+          fermentum ullamcorper sapien, feugiat etiam ac libero sed. Ac litora
+          lectus nec urna dis luctus ultricies diam, conubia eros ullamcorper
+          himenaeos venenatis massa vestibulum pharetra, purus lobortis congue
+          eu aliquam et accumsan. Dapibus eu augue odio scelerisque senectus
+          lacinia feugiat phasellus, vestibulum netus quisque cubilia ultricies
+          eros aptent, consequat sed volutpat a bibendum vulputate pulvinar.</p>
+      </article>
+      <article class="col-md-4 col-sm-8 col-12">
+        <h1>Segundo texto</h1>
+        <p>Mollis maecenas pharetra in ad magnis habitasse placerat ac, enim
+          integer nascetur tellus accumsan convallis nullam netus semper, nisl
+          curae gravida sapien fames nisi nunc. Lectus arcu luctus porta felis
+          vehicula curabitur mus sapien interdum in, cursus pretium quam neque
+          diam eu vitae vulputate dui, sociis facilisis justo cras pulvinar
+          dignissim enim phasellus dapibus. Metus et ac porta commodo iaculis
+          accumsan dui ut fames varius porttitor, vitae interdum tempor eget
+          mollis arcu ad nulla sociosqu.</p>
+      </article>
+      <article class="col-md-4 col-sm-8 col-12">
+        <h1>Tercer texto</h1>
+        <p>Id rutrum tellus mus nullam ridiculus luctus vitae penatibus,
+          porttitor praesent non enim tristique a suscipit commodo, neque diam
+          sed taciti orci ornare facilisis. Litora tellus duis lectus accumsan
+          pretium cursus mi auctor sociosqu est, metus magnis magna iaculis
+          massa maecenas turpis nascetur vitae, dignissim curae luctus rutrum
+          vel ullamcorper varius viverra porttitor. Vel potenti nulla eros
+          dignissim cubilia porttitor cursus ridiculus phasellus himenaeos,
+          etiam hendrerit lectus gravida purus mattis tempus feugiat eget
+          malesuada interdum, proin hac scelerisque vulputate luctus rutrum
+          nostra penatibus torquent. Semper velit lectus natoque scelerisque
+          vivamus dictum rutrum, erat iaculis ullamcorper per vel tempus congue
+          facilisi, consequat dignissim curabitur potenti tristique imperdiet.</p>
+      </article>
+      <article>
+        <h3>Rellena con sinceridad</h3>
+      </article>
+    </section>
+    <footer>
+      <p>Copyright</p>
+      <p>Social Media Links</p>
+    </footer>
+    
+  </body>
+</html>
